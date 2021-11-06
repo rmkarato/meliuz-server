@@ -1,3 +1,66 @@
 {
-"beneficios": []
+  "stores": [
+    {
+      "id": 1,
+      "label": "Magazine Luiza",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Magalu_-_novo_logo.png",
+      "localization": {
+        "lat": "-23.6141369",
+        "lng": "-46.5724182"
+      },
+      "address": {
+        "street": "R. Manoel Coelho, 300",
+        "zipcode": "09510-100",
+        "city": "São Caetano do Sul",
+        "state": "SP"
+      }
+    },
+    {
+      "id": 2,
+      "label": "Casas Bahia",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Casas_Bahia_logo.svg/1600px-Casas_Bahia_logo.svg.png",
+      "localization": {
+        "lat": "-23.6109978",
+        "lng": "-46.5715712"
+      },
+      "address": {
+        "street": "Av. Conde Francisco Matarazzo, 100",
+        "zipcode": "09520-900",
+        "city": "São Caetano do Sul",
+        "state": "SP"
+      }
+    },
+    {
+      "id": 3,
+      "label": "Extra",
+      "logo": "https://logodownload.org/wp-content/uploads/2014/12/extra-logo-mercado.jpg",
+      "localization": {
+        "lat": "-23.673008",
+        "lng": "-46.5734589"
+      },
+      "address": {
+        "street": "R. García Lorca, 301",
+        "zipcode": "09880-000",
+        "city": "São Bernardo do Campo",
+        "state": "SP"
+      }
+    }
+  ],
+  "discounts": [
+    {
+      "store": 1,
+      "value": 15,
+      "expires_in": "12/15/2021"
+    },
+    {
+      "store": 2,
+      "value": 10,
+      "expires_in": "12/15/2021"
+    },
+    {
+      "store": 3,
+      "value": 20,
+      "expires_in": "12/15/2021"
+    }
+  ]
 }
