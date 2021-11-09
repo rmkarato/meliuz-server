@@ -5,8 +5,8 @@
       "label": "Magazine Luiza",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Magalu_-_novo_logo.png",
       "localization": {
-        "lat": "-23.6141369",
-        "lng": "-46.5724182"
+        "lat": -23.6141369,
+        "lng": -46.5724182
       },
       "address": {
         "street": "R. Manoel Coelho, 300",
@@ -20,8 +20,8 @@
       "label": "Casas Bahia",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Casas_Bahia_logo.svg/1600px-Casas_Bahia_logo.svg.png",
       "localization": {
-        "lat": "-23.6109978",
-        "lng": "-46.5715712"
+        "lat": -23.6109978,
+        "lng": -46.5715712
       },
       "address": {
         "street": "Av. Conde Francisco Matarazzo, 100",
@@ -35,8 +35,8 @@
       "label": "Extra",
       "logo": "https://logodownload.org/wp-content/uploads/2014/12/extra-logo-mercado.jpg",
       "localization": {
-        "lat": "-23.673008",
-        "lng": "-46.5734589"
+        "lat": -23.673008,
+        "lng": -46.5734589
       },
       "address": {
         "street": "R. García Lorca, 301",
