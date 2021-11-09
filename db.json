@@ -44,6 +44,36 @@
         "city": "São Bernardo do Campo",
         "state": "SP"
       }
+    },
+    {
+      "id": 4,
+      "label": "Carrefour",
+      "logo": "https://img2.gratispng.com/20180605/swo/kisspng-carrefour-logo-retail-cdr-voucher-5b1634c2b9a656.8917703915281819547604.jpg",
+      "localization": {
+        "lat": -23.634330,
+        "lng": -46.595250
+      },
+      "address": {
+        "street": "Rod. Anchieta, 3398",
+        "zipcode": "04246-900",
+        "city": "São Paulo",
+        "state": "SP"
+      }
+    },
+    {
+      "id": 5,
+      "label": "Sam's Club",
+      "logo": "https://www.showmetech.com.br/wp-content/uploads//2018/05/sam-club-lanca-aplicativo-que-promete-revolucionar-sua-forma-de-fazer-compras-no-brasil-3.png",
+      "localization": {
+        "lat": -23.676060,
+        "lng": -46.556920
+      },
+      "address": {
+        "street": "Av. Senador Vergueiro, 2280",
+        "zipcode": "09600-000",
+        "city": "São Bernardo do Campo",
+        "state": "SP"
+      }
     }
   ],
   "discounts": [
@@ -60,6 +90,16 @@
     {
       "store": 3,
       "value": 20,
+      "expires_in": "12/15/2021"
+    },
+    {
+      "store": 4,
+      "value": 18,
+      "expires_in": "12/15/2021"
+    },
+    {
+      "store": 5,
+      "value": 12,
       "expires_in": "12/15/2021"
     }
   ]
